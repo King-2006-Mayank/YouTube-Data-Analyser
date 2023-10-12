@@ -1,7 +1,18 @@
 # Author - Mayank Bajaj
 # YouTube-Data-Analyser
 
+https://commentpicker.com/youtube-channel-id.php
+pip install pafy
+pip install youtube-dl==2020.12.2
+pip install pillow
+pip install numerize
+pip install matplotlib
+pip install mysql-connector-python
+pip install google-api-python-client
+
 A Python Based GUI To Analyze and compare Youtube Channel Using MySQL
+
+NOTE - If you are running the code Install MySQL, Install all the packages/libraries (pip commands given) and don't forget to change the MySQL password in the code (line - 29).
 
 INTRODUCTION
 
