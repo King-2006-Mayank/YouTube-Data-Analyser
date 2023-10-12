@@ -1,0 +1,42 @@
+https://commentpicker.com/youtube-channel-id.php
+
+pip install pafy
+pip install youtube-dl==2020.12.2
+pip install pillow
+pip install numerize
+pip install matplotlib
+pip install mysql-connector-python
+pip install google-api-python-client
+
+
+1) Dhruv Rathee
+
+Link: https://www.youtube.com/@dhruvrathee
+Channel ID: UC-CSyyi47VX1lD9zyeABW3w
+
+2) TechTFQ
+
+Link: https://www.youtube.com/@techTFQ
+Channel ID: UCnz-ZXXER4jOvuED5trXfEA
+
+3) Technical Guruji
+
+Link: https://www.youtube.com/@TechnicalGuruji
+Channel ID: UCOhHO2ICt0ti9KAh-QHvttQ
+
+4) Soch by Mohak Mangal
+
+Link: https://www.youtube.com/@sochbymm
+Channel ID: UCz4a7agVFr1TxU-mpAP8hkw
+
+5) Tech Burner
+
+Link: https://www.youtube.com/channel/UCXUJJNoP1QupwsYIWFXmsZg
+Channel ID: UCXUJJNoP1QupwsYIWFXmsZg
+
+
+
+>>> Sample video for Download Audio/ Video Function:
+
+Name: All Over in 10 Seconds
+Link: https://www.youtube.com/watch?v=rUWxSEwctFU&ab_channel=IanRushton
